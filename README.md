@@ -4,7 +4,7 @@
 ## Experiment 1
 ## DATE:25-03-25
 ## Aim:
-    To create a bayesian Network for the given dataset in Python
+To create a bayesian Network for the given dataset in Python
 ## Algorithm:
 Step 1:Import necessary libraries: pandas, networkx, matplotlib.pyplot, Bbn, Edge, EdgeType, BbnNode, Variable, EvidenceBuilder, InferenceController<br/>
 Step 2:Set pandas options to display more columns<br/>
